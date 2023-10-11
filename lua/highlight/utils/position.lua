@@ -1,5 +1,5 @@
 ---@meta
-local basic = require('annotate.utils.basic')
+local basic = require('highlight.utils.basic')
 local M = {}
 
 ---@enum index_types
